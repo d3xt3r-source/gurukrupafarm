@@ -321,7 +321,7 @@ input[type=submit]:hover {
 	 background-image: url("/images/header.JPG");
 
     /* Full height */
-    height: 90%; 
+    height: 100%; 
 
     /* Center and scale the image nicely */
     background-position: center;
